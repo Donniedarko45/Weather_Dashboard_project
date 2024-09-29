@@ -1,4 +1,3 @@
-# React + Vite
+# This is weather dashboard project
 
-This is weather dashboard project
 
